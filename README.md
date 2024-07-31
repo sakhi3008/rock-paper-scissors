@@ -1,4 +1,4 @@
-# Rock-paper-sciossors
+# Rock-paper-scissors
 
 ## Overview
 
@@ -8,7 +8,7 @@ This is a simple implementation of the classic Rock-Paper-Scissors game in Pytho
 
 Make a rock, paper, scissors game.
 
-Inside the rock_paper_scissors.py file, you'll find the ASCII art for the hand signals already saved to a corresponding variable: rock, paper, and scissors. This will make it easy to print them out to the console.
+Inside the [rock_paper_scissors.py](rock_paper_scissors.py) file, you'll find the ASCII art for the hand signals already saved to a corresponding variable: rock, paper, and scissors. This will make it easy to print them out to the console.
 
 Start the game by asking the player:
 
@@ -17,10 +17,13 @@ Start the game by asking the player:
 From there you will need to figure out:
 
 How you will store the user's input.
+<br>
 How you will generate a random choice for the computer.
+<br>
 How you will compare the user's and the computer's choice to determine the winner (or a draw).
+<br>
 And also how you will give feedback to the player.
 
 ## Additional Notes
 The ASCII art for the hand signals (Rock, Paper, and Scissors) is already stored in corresponding variables: rock, paper, and scissors, making it easy to print them out to the console.
-You can find the "official" rules of the game on the World Rock Paper Scissors Association website.
+You can find the "official" rules of the game on the [World Rock Paper Scissors Association website](https://www.wrpsa.com/).
